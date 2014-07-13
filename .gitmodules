@@ -1,0 +1,3 @@
+[submodule "wordpress/wp-content/plugins"]
+	path = wordpress/wp-content/plugins
+	url = git@github.com:mikepsinn/AP-Plugins.git
