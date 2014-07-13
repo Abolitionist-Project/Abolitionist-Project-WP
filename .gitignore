@@ -1,0 +1,21 @@
+# ignore plugins
+/wordpress/wp-content/plugins/
+/wordpress/wp-content/mu-plugins/
+
+# ignore WP core files
+/wordpress/wp-admin/
+/wordpress/wp-includes/
+/wordpress/index.php
+/wordpress/license.txt
+/wordpress/readme.html
+/wordpress/wp-*.php
+/wordpress/xmlrpc.php
+
+/api/
+/connectors/
+/wordpress/wp-config.php
+/wordpress/wp-content/updraft/
+/wordpress/wp-content/debug.log
+/wordpress/wp-content/object-cache.php
+/wordpress/wp-content/advanced-cache.php
+/wordpress/wp-content/cache/
