@@ -1,10 +1,21 @@
-Abolitionist-Project
-====================
+I dream of a cybernetic meadow
+where mammals and computers live together
+in mutually programming harmony
+like pure water touching clear sky
 
-This site contains all information about the Abolitionist Project.
+I dream of a digital ecology
+where all actions are perfectly calculated 
+to minimize suffering and
+gently guided by machines of loving grace.
 
-We can use this site for all the company operations information exchange needs.
+### Authors and Contributors
+- Quint Stoffers (@quipeace)
+- Pothi Kalimuthu (@pothi)
+- Dilshod Inomov (@dinomov)
+- Zain Sohail (@zainsohail)
+- Mike P. Sinn (@mikepsinn)
 
-Anything that's not a specific issue can go on this site.  
 
-We can use this site to replace the Github wiki and G+.
+### Find out how you can help us abolish suffering.
+- Email: mike@thinkbynumbers.org
+- Phone (618)391-0002
